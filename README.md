@@ -28,15 +28,50 @@
   </code>
 </p>
 
+---
+
+## 🧰 Technologies & Skills
+
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,python,php,js,html,css,lua,mysql,bash,json&theme=darkmode&color=58A6FF" width="800">
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=csharp" title="C#" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=lua" title="Lua" width="48" height="48" />
+
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48" />
+
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=json" title="JSON" width="48" height="48" />
 </p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoPaperSpray&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&title_color=58A6FF&icon_color=58A6FF" height="210">
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoPaperSpray&layout=donut&theme=tokyonight&hide_border=true&border_radius=16&title_color=58A6FF" height="210">
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=NoPaperSpray&repo=REPO_1&theme=tokyonight&hide_border=true&border_radius=16" width="380" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=NoPaperSpray&repo=REPO_2&theme=tokyonight&hide_border=true&border_radius=16" width="380" />
+</p>
+
+---
 
 <p align="center">
   <img src="resources/line.svg" width="750">
